@@ -1,0 +1,3 @@
+[submodule "kendryte-standalone-demo"]
+	path = kendryte-standalone-demo
+	url = https://github.com/kendryte/kendryte-standalone-demo.git
